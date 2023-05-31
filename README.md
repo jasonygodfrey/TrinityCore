@@ -5,7 +5,7 @@
 --------------
 
 
-* [Build Status](#build-status)
+* [Build Status](#build-statuss)
 * [Introduction](#introduction)
 * [Requirements](#requirements)
 * [Install](#install)
